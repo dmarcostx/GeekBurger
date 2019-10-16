@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="VisualInterface:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/VisualInterface_jar</output-path>
-    <root id="archive" name="VisualInterface.jar">
-      <element id="module-output" name="VisualInterface" />
-    </root>
-  </artifact>
-</component>

@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Notification:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Notification_jar</output-path>
-    <root id="archive" name="Notification.jar">
-      <element id="module-output" name="Notification" />
-    </root>
-  </artifact>
-</component>

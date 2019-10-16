@@ -4,4 +4,4 @@ _This project was designed to be implemented on a self-service totem pole of an 
 
 This project has already been prebuilt into jar files. The project was developed in Java 13, I don't know if it will run on older versions of Java.
 To execute them you only need to enter this command line in your bash:
-> java -jar Notification/out/artifacts/Notification_jar/Notification.jar & java -jar Order/out/artifacts/Order_jar/Order.jar & java -jar Production/out/artifacts/Production_jar/Production.jar & java -jar User/out/artifacts/User_jar/User.jar & java -jar VisualInterface/out/artifacts/VisualInterface_jar/VisualInterface.jar
+> java -jar Geek\ Burger/out/artifacts/Notification/Notification.jar & java -jar Geek\ Burger/out/artifacts/Order/Order.jar & java -jar Geek\ Burger/out/artifacts/Production/Production.jar & java -jar Geek\ Burger/out/artifacts/Totem/Totem.jar & java -jar Geek\ Burger/out/artifacts/User/User.jar
